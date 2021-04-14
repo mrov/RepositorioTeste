@@ -1,1 +1,2 @@
-print("iniciando git")
+a = "moabe"
+print(a)
